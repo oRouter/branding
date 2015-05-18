@@ -9,42 +9,44 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="177.16534"
-   height="177.16537"
-   id="svg3758"
    version="1.1"
+   width="180.70865"
+   height="180.70866"
+   id="svg3861"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="orouter-logo-4.svg"
-   inkscape:export-filename="/Users/kay/Dropbox/oRouter/Company/Branding/Logo Design/orouter-logo-hd-4.png"
-   inkscape:export-xdpi="975.35999"
-   inkscape:export-ydpi="975.35999">
-  <defs
-     id="defs3760" />
+   sodipodi:docname="orouter-logo.svg"
+   inkscape:export-filename="/Users/kay/Projects/public/orouter/branding/logo-design/orouter-logo-square.png"
+   inkscape:export-xdpi="255"
+   inkscape:export-ydpi="255">
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="48.44239"
-     inkscape:cy="71.154805"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:window-width="1440"
+     inkscape:window-height="784"
+     id="namedview8"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="784"
+     inkscape:zoom="1"
+     inkscape:cx="22.25"
+     inkscape:cy="103.01648"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3861" />
+  <defs
+     id="defs3863" />
   <metadata
-     id="metadata3763">
+     id="metadata3866">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -56,15 +58,21 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-875.19686)">
+     id="blue"
+     inkscape:label=""
+     style="fill:#0077cc;fill-opacity:1"
+     transform="translate(0,-16.46604)">
     <path
+       inkscape:label=""
+       d="M 35.438586,16.466041 C 15.808063,16.466041 0,32.274104 0,51.904626 l 0,85.033854 35.438586,0 0,-63.783203 c 0,-11.778311 9.472338,-21.250651 21.250651,-21.250651 l 63.783203,0 0,-35.438585 -85.033854,0 z"
+       id="top"
        style="fill:#0077cc;fill-opacity:1;stroke:none"
-       d="m 17.716535,875.19683 0,17.71653 -17.716535,0 0,141.73224 17.716535,0 0,17.7166 141.732285,0 0,-17.7166 17.71653,0 0,-141.73224 -17.71653,0 0,-17.71653 z m 17.716536,35.43307 35.433071,0 70.866138,0 0,35.4326 -70.866138,0 0,70.8666 -35.433071,0 0,-70.8666 z"
-       id="rect3766"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:label=""
+       d="m 145.27007,197.1747 c 19.63052,0 35.43858,-15.80799 35.43858,-35.43859 l 0,-85.033852 -35.43858,0 0,63.783222 c 0,11.77833 -9.47234,21.25063 -21.25066,21.25063 l -63.78319,0 0,35.43859 85.03385,0 z"
+       id="bottom"
+       style="fill:#0077cc;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
